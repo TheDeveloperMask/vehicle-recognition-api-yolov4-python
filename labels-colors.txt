@@ -1,0 +1,14 @@
+black
+white
+grey
+silver
+blue
+red
+green
+brown
+beige
+golden
+bordeaux
+yellow
+violet
+orange
