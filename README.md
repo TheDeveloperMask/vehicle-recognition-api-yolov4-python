@@ -12,7 +12,7 @@ The API is simple: make a HTTP POST request to local host on port 6000.
 The input image must be send using multipart/form-data encoding. It has to be jpg or png. Tested on Windows 10 and Ubuntu Linux.
 
 
-![image](https://github.com/spectrico/vehicle-recognition-api-yolov4/raw/master/car-make-model.png?raw=true)
+![image](https://github.com/spectrico/vehicle-recognition-api-yolov4-python/raw/master/car-make-model.png?raw=true)
 
 ---
 
