@@ -9,7 +9,8 @@ A Python server for [Spectrico's vehicle make and color classification](http://s
 The full version recognize make, model and color of the vehicles. Here is a web demo to test it: [Vehicle Make and Model Recognition](http://spectrico.com/demo-car-mmr.html)
 
 The API is simple: make a HTTP POST request to local host on port 6000.
-The input image must be send using multipart/form-data encoding. It has to be jpg or png. Tested on Windows 10 and Ubuntu Linux.
+The input image must be send using multipart/form-data encoding. It has to be jpg or png.
+Tested on Windows 10 and Ubuntu Linux.
 
 
 ![image](https://github.com/spectrico/vehicle-recognition-api-yolov4-python/raw/master/car-make-model.png?raw=true)
